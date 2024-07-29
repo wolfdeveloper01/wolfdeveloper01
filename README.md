@@ -1,6 +1,6 @@
 # Olá! Eu sou Nickoas 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/seuusuario?style=social)](https://github.com/NickolasBressy)
+[![GitHub Followers](https://img.shields.io/github/followers/NickolasBressy?style=social)](https://github.com/NickolasBressy)
 
 ## Sobre Mim
 
