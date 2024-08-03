@@ -1,41 +1,30 @@
-# Olá, eu sou Nickolas Bressy!
+# Hello, I'm Nickolas Bressy!
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web com experiência em HTML, CSS, JavaScript, PHP e um pouco de SQL. 
+Welcome to my GitHub profile! I'm a web developer with experience in HTML, CSS, JavaScript, PHP, and a bit of SQL.
 
-## Sobre Mim
+## About Me
 
-- **Linguagens e Tecnologias:**
+- **Languages and Technologies:**
   - HTML
   - CSS
   - JavaScript
   - PHP
-  - SQL (básico)
+  - SQL (basic)
 
-- **Educação:** 
-  - Atualmente, não tenho curso formal ou faculdade, mas estou sempre aprendendo e me atualizando através de projetos práticos e auto-estudo.
+- **Education:** 
+  - Currently, I do not have formal education or a degree, but I am always learning and staying updated through hands-on projects and self-study.
 
-## Repositórios
+## Repositories
 
 ### [Tool Github](https://github.com/NickolasBressy/Tool-Github)
-Este é o meu projeto principal. O repositório "Tool Github" contém diversas ferramentas e scripts que desenvolvi. Sinta-se à vontade para explorar, contribuir ou fazer sugestões!
+This is my main project. The "Tool Github" repository contains various tools and scripts that I have developed. Feel free to explore, contribute, or suggest improvements!
 
 ---
 
-### ✨ Olá, Devs! ✨
+### ✨ Hello, Devs! ✨
 
-<div style="text-align: center; padding: 20px;">
-  <h1 style="font-family: 'Roboto', sans-serif; font-size: 2em; color: #333; position: relative; display: inline-block;">
-    <span id="hello-text" style="position: absolute; width: 100%; text-align: center;">Olá, Devs!</span>
-  </h1>
-</div>
-
-<script>
-  const helloText = document.getElementById('hello-text');
-  setInterval(() => {
-    helloText.style.opacity = helloText.style.opacity === '0' ? '1' : '0';
-  }, 1000);
-</script>
+![Hello, Devs!](https://c.tenor.com/kxZgL7zPf0EAAAAC/tenor.gif)
 
 ---
 
-Agradeço pela visita e espero que você encontre algo interessante no meu perfil!
+Thank you for visiting, and I hope you find something interesting on my profile!
