@@ -1,4 +1,4 @@
-# Olá! Eu sou Nickoas 👋
+# Olá! Eu sou Nickolas 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/NickolasBressy?style=social)](https://github.com/NickolasBressy)
 
