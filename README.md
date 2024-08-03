@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a web developer with experience in HTML, CSS, 
 - **Education:** 
   - Currently, I do not have formal education or a degree, but I am always learning and staying updated through hands-on projects and self-study.
 
+## Contributions
+
+- ![Commits](https://img.shields.io/github/commit-activity/m/NickolasBressy/Tool-Github)
+- ![Pull Requests](https://img.shields.io/github/issues-pr/NickolasBressy/Tool-Github)
+- ![Issues](https://img.shields.io/github/issues/NickolasBressy/Tool-Github)
+
 ## Repositories
 
 ### [Tool Github](https://github.com/NickolasBressy/Tool-Github)
@@ -22,9 +28,9 @@ This is my main project. The "Tool Github" repository contains various tools and
 
 ---
 
-### ✨ Hello, Devs! ✨
+### 🚀 Contributions and More! 🚀
 
-![Hello, Devs!](https://raw.githubusercontent.com/NickolasBressy/Tool-Github/main/assets/hello-devs.svg)
+![Contributions](https://github-readme-stats.vercel.app/api?username=NickolasBressy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
 ---
 
