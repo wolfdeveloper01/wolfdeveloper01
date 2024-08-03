@@ -1,26 +1,41 @@
-# Olá! Eu sou Nickolas 👋
+# Olá, eu sou Nickolas Bressy!
 
-[![GitHub Followers](https://img.shields.io/github/followers/NickolasBressy?style=social)](https://github.com/NickolasBressy)
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web com experiência em HTML, CSS, JavaScript, PHP e um pouco de SQL. 
 
 ## Sobre Mim
 
-Desenvolvedor de software com 1 anos de experiência em desenvolvimento web e aplicações móveis. Apaixonado por tecnologia e inovação, sempre em busca de novos desafios e oportunidades para aprender e crescer.
+- **Linguagens e Tecnologias:**
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - SQL (básico)
 
-- 🌱 Atualmente estou aprendendo HTML, Node e Js
-- 📫 Como me encontrar: nickolasbot@gmail.com
+- **Educação:** 
+  - Atualmente, não tenho curso formal ou faculdade, mas estou sempre aprendendo e me atualizando através de projetos práticos e auto-estudo.
 
-## Habilidades Técnicas
+## Repositórios
 
-- **Linguagens de Programação:** HTML e JavaScript.
-- **Ferramentas e Plataformas:** Git.
-- **Banco de Dados:** SpreadSheets.
+### [Tool Github](https://github.com/NickolasBressy/Tool-Github)
+Este é o meu projeto principal. O repositório "Tool Github" contém diversas ferramentas e scripts que desenvolvi. Sinta-se à vontade para explorar, contribuir ou fazer sugestões!
 
-## Projetos Destacados
+---
 
-## Educação
+### ✨ Olá, Devs! ✨
 
-## Conecte-se Comigo
+<div style="text-align: center; padding: 20px;">
+  <h1 style="font-family: 'Roboto', sans-serif; font-size: 2em; color: #333; position: relative; display: inline-block;">
+    <span id="hello-text" style="position: absolute; width: 100%; text-align: center;">Olá, Devs!</span>
+  </h1>
+</div>
 
-- [Portfólio]()
+<script>
+  const helloText = document.getElementById('hello-text');
+  setInterval(() => {
+    helloText.style.opacity = helloText.style.opacity === '0' ? '1' : '0';
+  }, 1000);
+</script>
 
-Obrigado por visitar meu perfil GitHub! Vamos nos conectar e colaborar em projetos incríveis.
+---
+
+Agradeço pela visita e espero que você encontre algo interessante no meu perfil!
