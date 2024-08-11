@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a web developer with experience in HTML, CSS, 
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   - ![PHP](https://img.shields.io/badge/-PHP-blue)
   - ![SQL](https://img.shields.io/badge/-SQL-blue)
+  - ![Python](https://img.shields.io/badge/-Python-blue)
   - ![Termux](https://img.shields.io/badge/-Termux-green)
 
 - **Education:** 
