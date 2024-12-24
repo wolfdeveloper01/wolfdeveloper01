@@ -18,20 +18,20 @@ Welcome to my GitHub profile! I'm a web developer with experience in HTML, CSS, 
 
 ## Contributions
 
-- ![Commits](https://img.shields.io/github/commit-activity/m/NickolasBressy/Tool-Github)
-- ![Pull Requests](https://img.shields.io/github/issues-pr/NickolasBressy/Tool-Github)
-- ![Issues](https://img.shields.io/github/issues/NickolasBressy/Tool-Github)
+- ![Commits](https://img.shields.io/github/commit-activity/m/wolfdeveloper01/Tool-Github)
+- ![Pull Requests](https://img.shields.io/github/issues-pr/wolfdeveloper01/Tool-Github)
+- ![Issues](https://img.shields.io/github/issues/wolfdeveloper01/Tool-Github)
 
 ## Repositories
 
-### [Tool Github](https://github.com/NickolasBressy/Tool-Github)
+### [Tool Github](https://github.com/wolfdeveloper01/Tool-Github)
 This is my main project. The "Tool Github" repository contains various tools and scripts that I have developed. Feel free to explore, contribute, or suggest improvements!
 
 ---
 
 ### 🚀 Contributions and More! 🚀
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=NickolasBressy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Contributions](https://github-readme-stats.vercel.app/api?username=wolfdeveloper01&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
 ---
 
